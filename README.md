@@ -34,5 +34,6 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://via.plac![meesho_clone](https://github.com/samriddhipuranik/Meesho_clone/assets/69351209/8419dd86-1590-4904-90c4-7987eaea5dff)
+eholder.com/468x300?text=App+Screenshot+Here)
 
