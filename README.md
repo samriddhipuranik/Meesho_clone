@@ -3,7 +3,7 @@
 
 By developing a clone, I got the opportunity to gain practical experience and enhance my skills as a developer. I was able to delve into the intricacies of React.js, Redux, and Material UI, implementing them in a real-world scenario. This hands-on approach enables a deeper understanding of the chosen technology stack.
 
-Go check the Meesho clone now! - 
+Go check the Meesho clone now! - https://meesho-clone-sam.vercel.app/
 
 ## Deployment
 
