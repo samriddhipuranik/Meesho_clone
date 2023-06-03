@@ -1,20 +1,38 @@
-# boilerplate-react-functional-public
 
-In this app we will be making a Word and Character counter app.
-First there needs to be a <code>textarea</code> element which will take the input
-from user.
+# Meesho Clone
 
-Below that element, create 2 divs with id="word-counter" and id="char-counter" respectively.
-#word-counter will show the number of words(empty space is not considered a word) and #char-counter will show the number of characters typed.
+By developing a clone, I got the opportunity to gain practical experience and enhance my skills as a developer. I was able to delve into the intricacies of React.js, Redux, and Material UI, implementing them in a real-world scenario. This hands-on approach enables a deeper understanding of the chosen technology stack.
 
-Also make an input with id="char-limit-input" which takes a number which is the limit of characters we can type in.
-By default char limit should be 50.
+Go check the Meesho clone now! - 
 
-And the last input should be a slider input(with id ="fontSize-input") for taking the font size, default and min value should be 16px and max would be 32px.
+## Deployment
 
-Apply the fontSize property to the textarea element.
+Clone the project
+
+```bash
+ gh repo clone samriddhipuranik/Meesho_clone
+```
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
+
+
+## Tech Stack
+
+**Client:** ReactJS, Redux, Material UI
 
 
 
-Demo video:-
-<video src="https://d3dyfaf3iutrxo.cloudfront.net/general/upload/e449406acecb4a1186ae9cc77a55933f.mp4" controls autoplay muted>
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
